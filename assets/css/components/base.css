@@ -1,0 +1,4 @@
+/* base.css */
+body {
+  background-color: theme("colors.main-color");
+}
